@@ -13,6 +13,6 @@ public class GlasActivity extends AppCompatActivity {
         setContentView(R.layout.activity_glas);
 
         TextView textView = (TextView) findViewById(R.id.glastextview);
-        textView.setText("Her skal glas smides i såsom:");
+        textView.setText("Her skal glas smides i såsom alt muligt med glas:");
     }
 }
